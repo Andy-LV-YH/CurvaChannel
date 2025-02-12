@@ -4,7 +4,7 @@
 This repository mainly includes 1 image dataset for drainage channel segmentaion model development. 
 
 ## Download address
-
+https://hkustconnect-my.sharepoint.com/:f:/g/personal/ylyuap_connect_ust_hk/Ei-3JN4ZbDBMvE4pmgczlZwBpl_ZFwwUiivlVwitO5CCcA?e=XUlGsp
 
 ## Basic information
 All the images in the CurvaChannel are single-channel images transferrd from point cloud data.
