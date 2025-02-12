@@ -1,1 +1,2 @@
-# CurvaChannel
+# CurvaChannel 🚀
+
